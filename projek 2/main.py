@@ -1,3 +1,4 @@
+# Program membuat kalkulator sederhana 
 from hitung import *
 
 # input angka user
